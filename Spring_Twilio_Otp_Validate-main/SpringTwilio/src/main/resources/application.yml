@@ -1,6 +1,6 @@
 twilio:
-  account_sid: AC67cc8bdb3be9589c90fdbe32a9e11ef3
-  auth_token: 1b278e8195fc0941c68337ac7a658d0e
-  service_id: VAbddb258f3204c154736d60274e2bb88a
+  account_sid: your_sid
+  auth_token: your_token
+  service_id: your_serviceid
   
  
